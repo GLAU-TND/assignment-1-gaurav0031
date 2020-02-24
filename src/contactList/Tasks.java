@@ -1,6 +1,7 @@
 package contactList;
 
 import appHelperLinkedList.LinkedList1;
+import person.Person;
 
 import java.util.LinkedList;
 import java.util.Scanner;
